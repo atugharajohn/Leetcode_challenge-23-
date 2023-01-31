@@ -9,7 +9,7 @@ for month in l:
     s+='\n\n<details close> \n'
     s+='\t<summary>'+month+':</summary>\n<ol>'
     for question in os.listdir('./'+month):
-        code_path = parse.quote(common_path+'/'+month+'/'+question)
+        code_path = common_path+parse.quote(+month+'/'+question)
         s+= '<li>\n\n['+question+']('+code_path+') \n</li>'
     s+='\n</ol></details>'
 
