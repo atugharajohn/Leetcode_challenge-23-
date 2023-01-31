@@ -10,7 +10,7 @@ for month in l:
     s+='\t<summary>'+month+':</summary>\n<ol>'
     for question in os.listdir('./'+month):
         code_path = common_path+parse.quote(month+'/'+question)
-        s+= '<li>\n\n['+question+']('+code_path+') \n\n</li>'
+        s+= '\n<li>\n\n['+question+']('+code_path+') \n\n</li>'
     s+='\n</ol></details>'
 
 file = open('README.md','w')
