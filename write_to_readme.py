@@ -8,7 +8,7 @@ common_path = 'https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/'
 s='# Leetcode Solutions'
 for month in l:
     s+='\n\n<details close> \n'
-    s+='\t<summary style="font-size:18px;">'+month+':</summary>\n<ol>'
+    s+='\t<summary style="font-size:20px;">'+month+':</summary>\n<ol>'
 
     all_questions = os.listdir('./'+month)
     all_questions = sorted(all_questions,key = lambda x: os.path.getmtime('./'+month+'/'+x)) 
