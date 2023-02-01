@@ -1,7 +1,7 @@
 # Leetcode Solutions
 
 <details close> 
-	<summary>Jan Challenge:</summary>
+	<summary style="font-size:18px;">Jan Challenge:</summary>
 <ol>
 <li>
 
@@ -162,7 +162,7 @@
 </details>
 
 <details close> 
-	<summary>Feb Challenge:</summary>
+	<summary style="font-size:18px;">Feb Challenge:</summary>
 <ol>
 <li>
 
