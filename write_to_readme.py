@@ -2,7 +2,6 @@ import os
 from urllib import parse
 
 l = list(set(os.listdir("."))-set(['write_to_readme.py', 'README.md', '.git','.gitignore','.DS_Store']))
-
 common_path = 'https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/'
 s='# Leetcode Solutions'
 for month in l:
