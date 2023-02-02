@@ -1,7 +1,7 @@
 # Leetcode Solutions
 
 <details close> 
-	<summary style="font-size:20px;">Jan Challenge:</summary>
+	<summary style="font-size:25px;">Jan Challenge:</summary>
 <ol>
 <li>
 
@@ -162,11 +162,16 @@
 </details>
 
 <details close> 
-	<summary style="font-size:20px;">Feb Challenge:</summary>
+	<summary style="font-size:25px;">Feb Challenge:</summary>
 <ol>
 <li>
 
 [1071. Greatest Common Divisor of Strings.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Feb%20Challenge/1071.%20Greatest%20Common%20Divisor%20of%20Strings.py) 
+
+</li>
+<li>
+
+[953. Verifying an Alien Dictionary.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Feb%20Challenge/953.%20Verifying%20an%20Alien%20Dictionary.py) 
 
 </li>
 </ol>
