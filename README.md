@@ -174,5 +174,15 @@
 [953. Verifying an Alien Dictionary.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Feb%20Challenge/953.%20Verifying%20an%20Alien%20Dictionary.py) 
 
 </li>
+<li>
+
+[6. Zigzag Conversion.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Feb%20Challenge/6.%20Zigzag%20Conversion.py) 
+
+</li>
+<li>
+
+[438. Find All Anagrams in a String.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Feb%20Challenge/438.%20Find%20All%20Anagrams%20in%20a%20String.py) 
+
+</li>
 </ol>
 </details>
