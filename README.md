@@ -189,5 +189,10 @@
 [1470. Shuffle the Array.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Feb%20Challenge/1470.%20Shuffle%20the%20Array.py) 
 
 </li>
+<li>
+
+[567. Permutation in String.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Feb%20Challenge/567.%20Permutation%20in%20String.py) 
+
+</li>
 </ol>
 </details>
