@@ -184,5 +184,10 @@
 [438. Find All Anagrams in a String.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Feb%20Challenge/438.%20Find%20All%20Anagrams%20in%20a%20String.py) 
 
 </li>
+<li>
+
+[1470. Shuffle the Array.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Feb%20Challenge/1470.%20Shuffle%20the%20Array.py) 
+
+</li>
 </ol>
 </details>
