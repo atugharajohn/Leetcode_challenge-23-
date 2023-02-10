@@ -10,7 +10,7 @@ s='# Leetcode Solutions'
 for month in l:
     sno=1
     s+='\n\n<details close> \n'
-    s+='\t<summary style="font-size:25px;">'+month+':</summary>\n<ol>'
+    s+='\t<summary style="font-size:25px;">'+month+':</summary>\n<ul>'
 
     all_questions = os.listdir('./'+month)
     all_questions = sorted(all_questions,key = lambda x: os.path.getmtime('./'+month+'/'+x)) 
@@ -25,7 +25,7 @@ for month in l:
         code_path = common_path+parse.quote(month+'/'+new_question_name)
         s+= '\n<li>\n\n['+new_question_name+']('+code_path+') \n\n</li>'
         sno+=1
-    s+='\n</ol>\n</details>'
+    s+='\n</ul>\n</details>'
 
 file = open('README.md','w')
 file.write(s)

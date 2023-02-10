@@ -2,7 +2,7 @@
 
 <details close> 
 	<summary style="font-size:25px;">Jan Challenge:</summary>
-<ol>
+<ul>
 <li>
 
 [1: 520. Detect Capital.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jan%20Challenge/1%3A%20520.%20Detect%20Capital.py) 
@@ -158,12 +158,12 @@
 [31: 1626. Best Team With No Conflicts.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jan%20Challenge/31%3A%201626.%20Best%20Team%20With%20No%20Conflicts.py) 
 
 </li>
-</ol>
+</ul>
 </details>
 
 <details close> 
 	<summary style="font-size:25px;">Feb Challenge:</summary>
-<ol>
+<ul>
 <li>
 
 [1: 1071. Greatest Common Divisor of Strings.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Feb%20Challenge/1%3A%201071.%20Greatest%20Common%20Divisor%20of%20Strings.py) 
@@ -214,5 +214,5 @@
 [10: 1162. As Far from Land as Possible.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Feb%20Challenge/10%3A%201162.%20As%20Far%20from%20Land%20as%20Possible.py) 
 
 </li>
-</ol>
+</ul>
 </details>
