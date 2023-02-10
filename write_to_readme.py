@@ -23,7 +23,7 @@ for month in l:
             new_question_name = str(sno)+': '+question
             os.rename(file_path+question,file_path+new_question_name)
         code_path = common_path+parse.quote(month+'/'+new_question_name)
-        s+= '\n<li>\n\n['+new_question_name+']('+new_question_name+') \n\n</li>'
+        s+= '\n<li>\n\n['+new_question_name+']('+code_path+') \n\n</li>'
         sno+=1
     s+='\n</ol>\n</details>'
 
