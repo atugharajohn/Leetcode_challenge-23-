@@ -130,6 +130,12 @@
 🧡 [10: 1162. As Far from Land as Possible.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Feb%20Challenge/10%3A%201162.%20As%20Far%20from%20Land%20as%20Possible.py) 
 
 
-🧡 [11: .DS_Store](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Feb%20Challenge/11%3A%20.DS_Store) 
+🧡 [11: 1129. Shortest Path with Alternating Colors.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Feb%20Challenge/11%3A%201129.%20Shortest%20Path%20with%20Alternating%20Colors.py) 
+
+
+🧡 [12: 2477. Minimum Fuel Cost to Report to the Capital.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Feb%20Challenge/12%3A%202477.%20Minimum%20Fuel%20Cost%20to%20Report%20to%20the%20Capital.py) 
+
+
+🧡 [13: 1523. Count Odd Numbers in an Interval Range.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Feb%20Challenge/13%3A%201523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.py) 
 
 </details>
