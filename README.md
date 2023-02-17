@@ -138,4 +138,13 @@
 
 🧡 [13: 1523. Count Odd Numbers in an Interval Range.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Feb%20Challenge/13%3A%201523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.py) 
 
+
+🧡 [14: 67. Add Binary.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Feb%20Challenge/14%3A%2067.%20Add%20Binary.py) 
+
+
+🧡 [15: 989. Add to Array-Form of Integer.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Feb%20Challenge/15%3A%20989.%20Add%20to%20Array-Form%20of%20Integer.py) 
+
+
+🧡 [16: 104. Maximum Depth of Binary Tree.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Feb%20Challenge/16%3A%20104.%20Maximum%20Depth%20of%20Binary%20Tree.py) 
+
 </details>
