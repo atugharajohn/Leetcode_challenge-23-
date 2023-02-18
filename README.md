@@ -147,4 +147,10 @@
 
 🧡 [16: 104. Maximum Depth of Binary Tree.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Feb%20Challenge/16%3A%20104.%20Maximum%20Depth%20of%20Binary%20Tree.py) 
 
+
+🧡 [17: 783. Minimum Distance Between BST Nodes.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Feb%20Challenge/17%3A%20783.%20Minimum%20Distance%20Between%20BST%20Nodes.py) 
+
+
+🧡 [18: 226. Invert Binary Tree.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Feb%20Challenge/18%3A%20226.%20Invert%20Binary%20Tree.py) 
+
 </details>
