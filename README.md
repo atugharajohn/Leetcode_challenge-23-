@@ -153,4 +153,10 @@
 
 🧡 [18: 226. Invert Binary Tree.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Feb%20Challenge/18%3A%20226.%20Invert%20Binary%20Tree.py) 
 
+
+🧡 [19: 103. Binary Tree Zigzag Level Order Traversal.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Feb%20Challenge/19%3A%20103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.py) 
+
+
+🧡 [20: 35. Search Insert Position.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Feb%20Challenge/20%3A%2035.%20Search%20Insert%20Position.py) 
+
 </details>
