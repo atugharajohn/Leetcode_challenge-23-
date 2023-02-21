@@ -159,4 +159,7 @@
 
 🧡 [20: 35. Search Insert Position.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Feb%20Challenge/20%3A%2035.%20Search%20Insert%20Position.py) 
 
+
+🧡 [21: 540. Single Element in a Sorted Array.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Feb%20Challenge/21%3A%20540.%20Single%20Element%20in%20a%20Sorted%20Array.py) 
+
 </details>
