@@ -162,4 +162,32 @@
 
 🧡 [21: 540. Single Element in a Sorted Array.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Feb%20Challenge/21%3A%20540.%20Single%20Element%20in%20a%20Sorted%20Array.py) 
 
+
+🧡 [22: 1011. Capacity To Ship Packages Within D Days.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Feb%20Challenge/22%3A%201011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days.py) 
+
+
+🧡 [23: 502. IPO.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Feb%20Challenge/23%3A%20502.%20IPO.py) 
+
+
+🧡 [24: 1675. Minimize Deviation in Array.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Feb%20Challenge/24%3A%201675.%20Minimize%20Deviation%20in%20Array.py) 
+
+
+🧡 [25: 121. Best Time to Buy and Sell Stock.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Feb%20Challenge/25%3A%20121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) 
+
+
+🧡 [26: 72. Edit Distance.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Feb%20Challenge/26%3A%2072.%20Edit%20Distance.py) 
+
+
+🧡 [27: 427. Construct Quad Tree.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Feb%20Challenge/27%3A%20427.%20Construct%20Quad%20Tree.py) 
+
+
+🧡 [28: 652. Find Duplicate Subtrees.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Feb%20Challenge/28%3A%20652.%20Find%20Duplicate%20Subtrees.py) 
+
+</details>
+
+<details close> 
+	<summary style="font-size:25px;">Mar Challenge:</summary>
+
+💚 [1: 912. Sort an Array.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Mar%20Challenge/1%3A%20912.%20Sort%20an%20Array.py) 
+
 </details>
