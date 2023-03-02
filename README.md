@@ -190,4 +190,7 @@
 
 💚 [1: 912. Sort an Array.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Mar%20Challenge/1%3A%20912.%20Sort%20an%20Array.py) 
 
+
+💚 [2: 443. String Compression.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Mar%20Challenge/2%3A%20443.%20String%20Compression.py) 
+
 </details>
