@@ -193,4 +193,10 @@
 
 💚 [2: 443. String Compression.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Mar%20Challenge/2%3A%20443.%20String%20Compression.py) 
 
+
+💚 [3: 28. Find the Index of the First Occurrence in a String.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Mar%20Challenge/3%3A%2028.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.py) 
+
+
+💚 [4: 2444. Count Subarrays With Fixed Bounds.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Mar%20Challenge/4%3A%202444.%20Count%20Subarrays%20With%20Fixed%20Bounds.py) 
+
 </details>
