@@ -199,4 +199,7 @@
 
 💚 [4: 2444. Count Subarrays With Fixed Bounds.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Mar%20Challenge/4%3A%202444.%20Count%20Subarrays%20With%20Fixed%20Bounds.py) 
 
+
+💚 [5: 1345. Jump Game IV.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Mar%20Challenge/5%3A%201345.%20Jump%20Game%20IV.py) 
+
 </details>
