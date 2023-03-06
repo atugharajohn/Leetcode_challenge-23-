@@ -202,4 +202,7 @@
 
 💚 [5: 1345. Jump Game IV.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Mar%20Challenge/5%3A%201345.%20Jump%20Game%20IV.py) 
 
+
+💚 [6: 1539. Kth Missing Positive Number.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Mar%20Challenge/6%3A%201539.%20Kth%20Missing%20Positive%20Number.py) 
+
 </details>
