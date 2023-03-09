@@ -205,4 +205,13 @@
 
 💚 [6: 1539. Kth Missing Positive Number.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Mar%20Challenge/6%3A%201539.%20Kth%20Missing%20Positive%20Number.py) 
 
+
+💚 [7: 2187. Minimum Time to Complete Trips.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Mar%20Challenge/7%3A%202187.%20Minimum%20Time%20to%20Complete%20Trips.py) 
+
+
+💚 [8: 875. Koko Eating Bananas.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Mar%20Challenge/8%3A%20875.%20Koko%20Eating%20Bananas.py) 
+
+
+💚 [9: 142. Linked List Cycle II.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Mar%20Challenge/9%3A%20142.%20Linked%20List%20Cycle%20II.py) 
+
 </details>
