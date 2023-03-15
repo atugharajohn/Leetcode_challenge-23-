@@ -220,4 +220,13 @@
 
 💚 [11: 109. Convert Sorted List to Binary Search Tree.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Mar%20Challenge/11%3A%20109.%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.py) 
 
+
+💚 [12: 23. Merge k Sorted Lists.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Mar%20Challenge/12%3A%2023.%20Merge%20k%20Sorted%20Lists.py) 
+
+
+💚 [13: 101. Symmetric Tree.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Mar%20Challenge/13%3A%20101.%20Symmetric%20Tree.py) 
+
+
+💚 [14: 129. Sum Root to Leaf Numbers.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Mar%20Challenge/14%3A%20129.%20Sum%20Root%20to%20Leaf%20Numbers.py) 
+
 </details>
