@@ -214,4 +214,7 @@
 
 💚 [9: 142. Linked List Cycle II.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Mar%20Challenge/9%3A%20142.%20Linked%20List%20Cycle%20II.py) 
 
+
+💚 [10: 382. Linked List Random Node.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Mar%20Challenge/10%3A%20382.%20Linked%20List%20Random%20Node.py) 
+
 </details>
