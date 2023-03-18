@@ -232,4 +232,13 @@
 
 💚 [15: 958. Check Completeness of a Binary Tree.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Mar%20Challenge/15%3A%20958.%20Check%20Completeness%20of%20a%20Binary%20Tree.py) 
 
+
+💚 [16: 106. Construct Binary Tree from Inorder and Postorder Traversal.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Mar%20Challenge/16%3A%20106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.py) 
+
+
+💚 [17: 208. Implement Trie (Prefix Tree).py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Mar%20Challenge/17%3A%20208.%20Implement%20Trie%20%28Prefix%20Tree%29.py) 
+
+
+💚 [18: 1472. Design Browser History.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Mar%20Challenge/18%3A%201472.%20Design%20Browser%20History.py) 
+
 </details>
