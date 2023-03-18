@@ -1,7 +1,7 @@
 # Leetcode Solutions
 
 <details close> 
-	<summary><img src = "https://leetcode.com/static/images/badges/2023/gif/2023-01.gif" width="60"/>Jan Challenge:</summary>
+	<summary><img src = "https://leetcode.com/static/images/badges/2023/gif/2023-01.gif" width="60"/><b>Jan Challenge</b>:</summary>
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-01.gif" width="15"/> [1: 520. Detect Capital.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jan%20Challenge/1%3A%20520.%20Detect%20Capital.py) 
 
@@ -98,7 +98,7 @@
 </details>
 
 <details close> 
-	<summary><img src = "https://leetcode.com/static/images/badges/2023/gif/2023-02.gif" width="60"/>Feb Challenge:</summary>
+	<summary><img src = "https://leetcode.com/static/images/badges/2023/gif/2023-02.gif" width="60"/><b>Feb Challenge</b>:</summary>
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-02.gif" width="15"/> [1: 1071. Greatest Common Divisor of Strings.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Feb%20Challenge/1%3A%201071.%20Greatest%20Common%20Divisor%20of%20Strings.py) 
 
@@ -186,7 +186,7 @@
 </details>
 
 <details close> 
-	<summary><img src = "https://leetcode.com/static/images/badges/2023/gif/2023-03.gif" width="60"/>Mar Challenge:</summary>
+	<summary><img src = "https://leetcode.com/static/images/badges/2023/gif/2023-03.gif" width="60"/><b>Mar Challenge</b>:</summary>
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-03.gif" width="15"/> [1: 912. Sort an Array.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Mar%20Challenge/1%3A%20912.%20Sort%20an%20Array.py) 
 
