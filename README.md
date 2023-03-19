@@ -241,4 +241,7 @@
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-03.gif" width="15"/> [18: 1472. Design Browser History.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Mar%20Challenge/18%3A%201472.%20Design%20Browser%20History.py) 
 
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-03.gif" width="15"/> [19: 211. Design Add and Search Words Data Structure.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Mar%20Challenge/19%3A%20211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure.py) 
+
 </details>
