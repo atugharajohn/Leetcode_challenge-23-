@@ -244,4 +244,13 @@
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-03.gif" width="15"/> [19: 211. Design Add and Search Words Data Structure.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Mar%20Challenge/19%3A%20211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure.py) 
 
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-03.gif" width="15"/> [20: 605. Can Place Flowers.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Mar%20Challenge/20%3A%20605.%20Can%20Place%20Flowers.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-03.gif" width="15"/> [21: 2348. Number of Zero-Filled Subarrays.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Mar%20Challenge/21%3A%202348.%20Number%20of%20Zero-Filled%20Subarrays.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-03.gif" width="15"/> [22: 2492. Minimum Score of a Path Between Two Cities.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Mar%20Challenge/22%3A%202492.%20Minimum%20Score%20of%20a%20Path%20Between%20Two%20Cities.py) 
+
 </details>
