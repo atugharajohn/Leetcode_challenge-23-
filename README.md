@@ -253,4 +253,7 @@
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-03.gif" width="15"/> [22: 2492. Minimum Score of a Path Between Two Cities.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Mar%20Challenge/22%3A%202492.%20Minimum%20Score%20of%20a%20Path%20Between%20Two%20Cities.py) 
 
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-03.gif" width="15"/> [23: 1319. Number of Operations to Make Network Connected.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Mar%20Challenge/23%3A%201319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected.py) 
+
 </details>
