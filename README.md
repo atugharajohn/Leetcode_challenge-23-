@@ -262,4 +262,10 @@
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-03.gif" width="15"/> [25: 2316. Count Unreachable Pairs of Nodes in an Undirected Graph.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Mar%20Challenge/25%3A%202316.%20Count%20Unreachable%20Pairs%20of%20Nodes%20in%20an%20Undirected%20Graph.py) 
 
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-03.gif" width="15"/> [26: 2360. Longest Cycle in a Graph.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Mar%20Challenge/26%3A%202360.%20Longest%20Cycle%20in%20a%20Graph.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-03.gif" width="15"/> [27: 64. Minimum Path Sum.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Mar%20Challenge/27%3A%2064.%20Minimum%20Path%20Sum.py) 
+
 </details>
