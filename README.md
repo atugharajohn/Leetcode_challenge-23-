@@ -268,4 +268,13 @@
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-03.gif" width="15"/> [27: 64. Minimum Path Sum.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Mar%20Challenge/27%3A%2064.%20Minimum%20Path%20Sum.py) 
 
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-03.gif" width="15"/> [28: 983. Minimum Cost For Tickets.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Mar%20Challenge/28%3A%20983.%20Minimum%20Cost%20For%20Tickets.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-03.gif" width="15"/> [29: 1402. Reducing Dishes.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Mar%20Challenge/29%3A%201402.%20Reducing%20Dishes.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-03.gif" width="15"/> [30: 87. Scramble String.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Mar%20Challenge/30%3A%2087.%20Scramble%20String.py) 
+
 </details>
