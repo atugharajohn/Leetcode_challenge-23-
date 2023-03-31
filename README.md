@@ -277,4 +277,7 @@
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-03.gif" width="15"/> [30: 87. Scramble String.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Mar%20Challenge/30%3A%2087.%20Scramble%20String.py) 
 
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-03.gif" width="15"/> [31: 1444. Number of Ways of Cutting a Pizza.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Mar%20Challenge/31%3A%201444.%20Number%20of%20Ways%20of%20Cutting%20a%20Pizza.py) 
+
 </details>
