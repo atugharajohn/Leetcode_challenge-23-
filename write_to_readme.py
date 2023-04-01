@@ -9,7 +9,7 @@ month_count=1
 
 month_gif = lambda mon,wid: '<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-'+str(mon).zfill(2)+'.gif" width="'+str(wid)+'"/>'
 common_path = 'https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/'
-s='<a href="https://github.com/ThisIsSakshi#gh-light-mode-only">\n  <img align="left"  src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png" alt="Header" width="5%" />\n</a>\n<a href="https://github.com/ThisIsSakshi#gh-dark-mode-only">\n  <img align="left"  src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" alt="Header" width="5%" />\n</a>\n<h1>LeetCode Solutions</h1>'
+s='<a href="https://github.com/ThisIsSakshi#gh-light-mode-only">\n  <img align="left"  src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png" alt="Header" width="50" />\n</a>\n<a href="https://github.com/ThisIsSakshi#gh-dark-mode-only">\n  <img align="left"  src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" alt="Header" width="50" />\n</a>\n<h1>LeetCode Solutions</h1>'
 for month in l:
     sno=1
     s+='\n\n<details close> \n'
