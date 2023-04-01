@@ -281,3 +281,10 @@
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-03.gif" width="15"/> [31: 1444. Number of Ways of Cutting a Pizza.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Mar%20Challenge/31%3A%201444.%20Number%20of%20Ways%20of%20Cutting%20a%20Pizza.py) 
 
 </details>
+
+<details close> 
+	<summary><img src = "https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="60"/><b>Apr Challenge</b>:</summary>
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="15"/> [1: 704. Binary Search.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Apr%20Challenge/1%3A%20704.%20Binary%20Search.py) 
+
+</details>
