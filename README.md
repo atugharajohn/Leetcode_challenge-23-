@@ -1,4 +1,10 @@
-# Leetcode Solutions
+<a href="https://github.com/ThisIsSakshi#gh-light-mode-only">
+  <img align="left"  src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png" alt="Header" width="5%" />
+</a>
+<a href="https://github.com/ThisIsSakshi#gh-dark-mode-only">
+  <img align="left"  src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" alt="Header" width="5%" />
+</a>
+<h1>LeetCode Solutions</h1>
 
 <details close> 
 	<summary><img src = "https://leetcode.com/static/images/badges/2023/gif/2023-01.gif" width="60"/><b>Jan Challenge</b>:</summary>
