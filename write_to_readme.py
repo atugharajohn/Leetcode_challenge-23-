@@ -4,7 +4,6 @@ from urllib import parse
 
 l = [n for n in os.listdir(".") if '.' not in n]
 l = sorted(l,key = lambda x: os.path.getmtime('./'+x))
-# month_bullet= {'Jan Challenge':'💝','Feb Challenge':'🧡','Mar Challenge':'💚' ,'Apr Challenge':'💙', 'May Challenge':'💛', 'Jun Challenge':'💜','Jul Challenge':'🤎','Aug Challenge':'🖤','Sep Challenge':'🤍','Oct Challenge':'💕','Nov Challenge':'💖','Dec Challenge':'❤️‍🩹'}
 month_count=1
 
 month_gif = lambda mon,wid: '<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-'+str(mon).zfill(2)+'.gif" width="'+str(wid)+'"/>'

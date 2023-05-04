@@ -305,4 +305,22 @@
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="15"/> [5: 2439. Minimize Maximum of Array.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Apr%20Challenge/5%3A%202439.%20Minimize%20Maximum%20of%20Array.py) 
 
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="15"/> [6: 1254. Number of Closed Islands.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Apr%20Challenge/6%3A%201254.%20Number%20of%20Closed%20Islands.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="15"/> [7: 1020. Number of Enclaves.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Apr%20Challenge/7%3A%201020.%20Number%20of%20Enclaves.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="15"/> [8: 133. Clone Graph.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Apr%20Challenge/8%3A%20133.%20Clone%20Graph.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="15"/> [9: 1857. Largest Color Value in a Directed Graph.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Apr%20Challenge/9%3A%201857.%20Largest%20Color%20Value%20in%20a%20Directed%20Graph.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="15"/> [10: 20. Valid Parentheses.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Apr%20Challenge/10%3A%2020.%20Valid%20Parentheses.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="15"/> [11: 2390. Removing Stars From a String.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Apr%20Challenge/11%3A%202390.%20Removing%20Stars%20From%20a%20String.py) 
+
 </details>
