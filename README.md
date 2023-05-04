@@ -323,4 +323,22 @@
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="15"/> [11: 2390. Removing Stars From a String.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Apr%20Challenge/11%3A%202390.%20Removing%20Stars%20From%20a%20String.py) 
 
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="15"/> [12: 71. Simplify Path.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Apr%20Challenge/12%3A%2071.%20Simplify%20Path.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="15"/> [13: 946. Validate Stack Sequences.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Apr%20Challenge/13%3A%20946.%20Validate%20Stack%20Sequences.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="15"/> [14: 516. Longest Palindromic Subsequence.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Apr%20Challenge/14%3A%20516.%20Longest%20Palindromic%20Subsequence.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="15"/> [15: 2218. Maximum Value of K Coins From Piles.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Apr%20Challenge/15%3A%202218.%20Maximum%20Value%20of%20K%20Coins%20From%20Piles.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="15"/> [16: 1639. Number of Ways to Form a Target String Given a Dictionary.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Apr%20Challenge/16%3A%201639.%20Number%20of%20Ways%20to%20Form%20a%20Target%20String%20Given%20a%20Dictionary.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="15"/> [17: 1431. Kids With the Greatest Number of Candies.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Apr%20Challenge/17%3A%201431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.py) 
+
 </details>
