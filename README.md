@@ -299,4 +299,10 @@
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="15"/> [3: 881. Boats to Save People.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Apr%20Challenge/3%3A%20881.%20Boats%20to%20Save%20People.py) 
 
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="15"/> [4: 2405. Optimal Partition of String.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Apr%20Challenge/4%3A%202405.%20Optimal%20Partition%20of%20String.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="15"/> [5: 2439. Minimize Maximum of Array.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Apr%20Challenge/5%3A%202439.%20Minimize%20Maximum%20of%20Array.py) 
+
 </details>
