@@ -293,4 +293,10 @@
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="15"/> [1: 704. Binary Search.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Apr%20Challenge/1%3A%20704.%20Binary%20Search.py) 
 
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="15"/> [2: 2300. Successful Pairs of Spells and Potions.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Apr%20Challenge/2%3A%202300.%20Successful%20Pairs%20of%20Spells%20and%20Potions.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="15"/> [3: 881. Boats to Save People.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Apr%20Challenge/3%3A%20881.%20Boats%20to%20Save%20People.py) 
+
 </details>
