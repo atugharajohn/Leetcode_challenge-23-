@@ -390,4 +390,7 @@
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [2: 1822. Sign of the Product of an Array.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/2%3A%201822.%20Sign%20of%20the%20Product%20of%20an%20Array.py) 
 
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [3: 2215. Find the Difference of Two Arrays.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/3%3A%202215.%20Find%20the%20Difference%20of%20Two%20Arrays.py) 
+
 </details>
