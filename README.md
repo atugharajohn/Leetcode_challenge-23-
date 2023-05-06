@@ -341,4 +341,43 @@
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="15"/> [17: 1431. Kids With the Greatest Number of Candies.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Apr%20Challenge/17%3A%201431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.py) 
 
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="15"/> [18: 1768. Merge Strings Alternately.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Apr%20Challenge/18%3A%201768.%20Merge%20Strings%20Alternately.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="15"/> [19: 1372. Longest ZigZag Path in a Binary Tree.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Apr%20Challenge/19%3A%201372.%20Longest%20ZigZag%20Path%20in%20a%20Binary%20Tree.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="15"/> [20: 662. Maximum Width of Binary Tree.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Apr%20Challenge/20%3A%20662.%20Maximum%20Width%20of%20Binary%20Tree.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="15"/> [21: 879. Profitable Schemes.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Apr%20Challenge/21%3A%20879.%20Profitable%20Schemes.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="15"/> [22: 1312. Minimum Insertion Steps to Make a String Palindrome.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Apr%20Challenge/22%3A%201312.%20Minimum%20Insertion%20Steps%20to%20Make%20a%20String%20Palindrome.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="15"/> [23: 1416. Restore The Array.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Apr%20Challenge/23%3A%201416.%20Restore%20The%20Array.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="15"/> [24: 1046. Last Stone Weight.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Apr%20Challenge/24%3A%201046.%20Last%20Stone%20Weight.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="15"/> [25: 2336. Smallest Number in Infinite Set.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Apr%20Challenge/25%3A%202336.%20Smallest%20Number%20in%20Infinite%20Set.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="15"/> [26: 258. Add Digits.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Apr%20Challenge/26%3A%20258.%20Add%20Digits.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="15"/> [27: 319. Bulb Switcher.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Apr%20Challenge/27%3A%20319.%20Bulb%20Switcher.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="15"/> [28: 839. Similar String Groups.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Apr%20Challenge/28%3A%20839.%20Similar%20String%20Groups.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="15"/> [29: 1697. Checking Existence of Edge Length Limited Paths.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Apr%20Challenge/29%3A%201697.%20Checking%20Existence%20of%20Edge%20Length%20Limited%20Paths.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="15"/> [30: 1579. Remove Max Number of Edges to Keep Graph Fully Traversable.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Apr%20Challenge/30%3A%201579.%20Remove%20Max%20Number%20of%20Edges%20to%20Keep%20Graph%20Fully%20Traversable.py) 
+
 </details>
