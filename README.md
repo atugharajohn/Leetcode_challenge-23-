@@ -387,4 +387,7 @@
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [1: 1491. Average Salary Excluding the Minimum and Maximum Salary.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/1%3A%201491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.py) 
 
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [2: 1822. Sign of the Product of an Array.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/2%3A%201822.%20Sign%20of%20the%20Product%20of%20an%20Array.py) 
+
 </details>
