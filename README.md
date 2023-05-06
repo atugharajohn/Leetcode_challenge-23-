@@ -399,4 +399,7 @@
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [5: 1456. Maximum Number of Vowels in a Substring of Given Length.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/5%3A%201456.%20Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length.py) 
 
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [6: 1498. Number of Subsequences That Satisfy the Given Sum Condition.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/6%3A%201498.%20Number%20of%20Subsequences%20That%20Satisfy%20the%20Given%20Sum%20Condition.py) 
+
 </details>
