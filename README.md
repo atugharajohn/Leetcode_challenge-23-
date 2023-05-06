@@ -291,9 +291,6 @@
 <details close> 
 	<summary><img src = "https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="60"/><b>Apr Challenge</b>:</summary>
 
-<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="15"/> [1: 704. Binary Search.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Apr%20Challenge/1%3A%20704.%20Binary%20Search.py) 
-
-
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="15"/> [2: 2300. Successful Pairs of Spells and Potions.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Apr%20Challenge/2%3A%202300.%20Successful%20Pairs%20of%20Spells%20and%20Potions.py) 
 
 
@@ -379,5 +376,15 @@
 
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="15"/> [30: 1579. Remove Max Number of Edges to Keep Graph Fully Traversable.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Apr%20Challenge/30%3A%201579.%20Remove%20Max%20Number%20of%20Edges%20to%20Keep%20Graph%20Fully%20Traversable.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" width="15"/> [1: 704. Binary Search.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Apr%20Challenge/1%3A%20704.%20Binary%20Search.py) 
+
+</details>
+
+<details close> 
+	<summary><img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="60"/><b>May Challenge</b>:</summary>
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [1: 1491. Average Salary Excluding the Minimum and Maximum Salary.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/1%3A%201491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.py) 
 
 </details>
