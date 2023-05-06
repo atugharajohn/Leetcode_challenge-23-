@@ -393,4 +393,7 @@
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [3: 2215. Find the Difference of Two Arrays.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/3%3A%202215.%20Find%20the%20Difference%20of%20Two%20Arrays.py) 
 
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [4: 649. Dota2 Senate.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/4%3A%20649.%20Dota2%20Senate.py) 
+
 </details>
