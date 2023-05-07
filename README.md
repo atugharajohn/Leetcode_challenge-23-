@@ -402,4 +402,7 @@
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [6: 1498. Number of Subsequences That Satisfy the Given Sum Condition.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/6%3A%201498.%20Number%20of%20Subsequences%20That%20Satisfy%20the%20Given%20Sum%20Condition.py) 
 
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [7: 1964. Find the Longest Valid Obstacle Course at Each Position.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/7%3A%201964.%20Find%20the%20Longest%20Valid%20Obstacle%20Course%20at%20Each%20Position.py) 
+
 </details>
