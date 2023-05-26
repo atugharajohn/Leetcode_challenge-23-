@@ -435,4 +435,7 @@
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [17: 2130. Maximum Twin Sum of a Linked List.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/17%3A%202130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List.py) 
 
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [18: 1557. Minimum Number of Vertices to Reach All.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/18%3A%201557.%20Minimum%20Number%20of%20Vertices%20to%20Reach%20All.py) 
+
 </details>
