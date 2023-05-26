@@ -432,4 +432,7 @@
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [16: 24. Swap Nodes in Pairs.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/16%3A%2024.%20Swap%20Nodes%20in%20Pairs.py) 
 
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [17: 2130. Maximum Twin Sum of a Linked List.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/17%3A%202130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List.py) 
+
 </details>
