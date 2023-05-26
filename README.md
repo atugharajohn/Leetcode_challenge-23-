@@ -406,9 +406,6 @@
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [7: 1964. Find the Longest Valid Obstacle Course at Each Position.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/7%3A%201964.%20Find%20the%20Longest%20Valid%20Obstacle%20Course%20at%20Each%20Position.py) 
 
 
-<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [8: 1572. Matrix Diagonal Sum.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/8%3A%201572.%20Matrix%20Diagonal%20Sum.py) 
-
-
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [9: 54. Spiral Matrix.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/9%3A%2054.%20Spiral%20Matrix.py) 
 
 
@@ -416,5 +413,11 @@
 
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [11: 1035. Uncrossed Lines.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/11%3A%201035.%20Uncrossed%20Lines.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [8: 1572. Matrix Diagonal Sum.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/8%3A%201572.%20Matrix%20Diagonal%20Sum.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [12: 2140. Solving Questions With Brainpower.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/12%3A%202140.%20Solving%20Questions%20With%20Brainpower.py) 
 
 </details>
