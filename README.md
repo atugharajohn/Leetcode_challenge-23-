@@ -408,4 +408,7 @@
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [8: 1572. Matrix Diagonal Sum.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/8%3A%201572.%20Matrix%20Diagonal%20Sum.py) 
 
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [9: 54. Spiral Matrix.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/9%3A%2054.%20Spiral%20Matrix.py) 
+
 </details>
