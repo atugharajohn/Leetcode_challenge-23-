@@ -423,4 +423,7 @@
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [13: 2466. Count Ways To Build Good Strings.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/13%3A%202466.%20Count%20Ways%20To%20Build%20Good%20Strings.py) 
 
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [14: 1799. Maximize Score After N Operations.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/14%3A%201799.%20Maximize%20Score%20After%20N%20Operations.py) 
+
 </details>
