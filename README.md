@@ -429,4 +429,7 @@
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [15: 1721. Swapping Nodes in a Linked List.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/15%3A%201721.%20Swapping%20Nodes%20in%20a%20Linked%20List.py) 
 
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [16: 24. Swap Nodes in Pairs.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/16%3A%2024.%20Swap%20Nodes%20in%20Pairs.py) 
+
 </details>
