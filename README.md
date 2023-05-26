@@ -420,4 +420,7 @@
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [12: 2140. Solving Questions With Brainpower.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/12%3A%202140.%20Solving%20Questions%20With%20Brainpower.py) 
 
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [13: 2466. Count Ways To Build Good Strings.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/13%3A%202466.%20Count%20Ways%20To%20Build%20Good%20Strings.py) 
+
 </details>
