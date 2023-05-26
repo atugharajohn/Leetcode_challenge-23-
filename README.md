@@ -415,9 +415,6 @@
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [11: 1035. Uncrossed Lines.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/11%3A%201035.%20Uncrossed%20Lines.py) 
 
 
-<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [8: 1572. Matrix Diagonal Sum.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/8%3A%201572.%20Matrix%20Diagonal%20Sum.py) 
-
-
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [12: 2140. Solving Questions With Brainpower.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/12%3A%202140.%20Solving%20Questions%20With%20Brainpower.py) 
 
 
@@ -437,5 +434,35 @@
 
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [18: 1557. Minimum Number of Vertices to Reach All.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/18%3A%201557.%20Minimum%20Number%20of%20Vertices%20to%20Reach%20All.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [19: 785. Is Graph Bipartite?.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/19%3A%20785.%20Is%20Graph%20Bipartite%3F.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [20: 399. Evaluate Division.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/20%3A%20399.%20Evaluate%20Division.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [21: 934. Shortest Bridge.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/21%3A%20934.%20Shortest%20Bridge.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [22: 347. Top K Frequent Elements.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/22%3A%20347.%20Top%20K%20Frequent%20Elements.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [23: 703. Kth Largest Element in a Stream.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/23%3A%20703.%20Kth%20Largest%20Element%20in%20a%20Stream.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [23: 2542. Maximum Subsequence Score.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/23%3A%202542.%20Maximum%20Subsequence%20Score.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [8: 1572. Matrix Diagonal Sum.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/8%3A%201572.%20Matrix%20Diagonal%20Sum.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [25: 2542. Maximum Subsequence Score.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/25%3A%202542.%20Maximum%20Subsequence%20Score.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [26: 837. New 21 Game.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/26%3A%20837.%20New%2021%20Game.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [27: 1140. Stone Game II.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/27%3A%201140.%20Stone%20Game%20II.py) 
 
 </details>
