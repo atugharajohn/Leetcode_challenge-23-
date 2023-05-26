@@ -426,4 +426,7 @@
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [14: 1799. Maximize Score After N Operations.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/14%3A%201799.%20Maximize%20Score%20After%20N%20Operations.py) 
 
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [15: 1721. Swapping Nodes in a Linked List.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/15%3A%201721.%20Swapping%20Nodes%20in%20a%20Linked%20List.py) 
+
 </details>
