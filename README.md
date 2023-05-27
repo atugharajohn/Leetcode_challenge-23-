@@ -462,4 +462,7 @@
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [26: 1140. Stone Game II.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/26%3A%201140.%20Stone%20Game%20II.py) 
 
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [27: 1406. Stone Game III.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/27%3A%201406.%20Stone%20Game%20III.py) 
+
 </details>
