@@ -451,18 +451,15 @@
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [23: 703. Kth Largest Element in a Stream.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/23%3A%20703.%20Kth%20Largest%20Element%20in%20a%20Stream.py) 
 
 
-<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [23: 2542. Maximum Subsequence Score.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/23%3A%202542.%20Maximum%20Subsequence%20Score.py) 
-
-
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [8: 1572. Matrix Diagonal Sum.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/8%3A%201572.%20Matrix%20Diagonal%20Sum.py) 
 
 
-<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [25: 2542. Maximum Subsequence Score.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/25%3A%202542.%20Maximum%20Subsequence%20Score.py) 
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [24: 2542. Maximum Subsequence Score.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/24%3A%202542.%20Maximum%20Subsequence%20Score.py) 
 
 
-<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [26: 837. New 21 Game.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/26%3A%20837.%20New%2021%20Game.py) 
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [25: 837. New 21 Game.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/25%3A%20837.%20New%2021%20Game.py) 
 
 
-<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [27: 1140. Stone Game II.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/27%3A%201140.%20Stone%20Game%20II.py) 
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [26: 1140. Stone Game II.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/26%3A%201140.%20Stone%20Game%20II.py) 
 
 </details>
