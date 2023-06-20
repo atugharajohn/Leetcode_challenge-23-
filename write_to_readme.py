@@ -13,7 +13,6 @@ for month in l:
     sno=1
     s+='\n\n<details close> \n'
     s+='\t<summary>'+month_gif(month_count,60)+'<b>'+month+'</b>:</summary>'
-
     all_questions = os.listdir('./'+month)
     all_questions = sorted(all_questions,key = lambda x: os.path.getmtime('./'+month+'/'+x)) 
 

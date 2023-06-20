@@ -465,4 +465,19 @@
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [27: 1406. Stone Game III.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/27%3A%201406.%20Stone%20Game%20III.py) 
 
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [28: 1406. Stone Game III.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/28%3A%201406.%20Stone%20Game%20III.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [29: 1547. Minimum Cost to Cut a Stick.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/29%3A%201547.%20Minimum%20Cost%20to%20Cut%20a%20Stick.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [30: 1603. Design Parking System.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/30%3A%201603.%20Design%20Parking%20System.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [31: 705. Design HashSet.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/31%3A%20705.%20Design%20HashSet.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [32: 1396. Design Underground System.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/32%3A%201396.%20Design%20Underground%20System.py) 
+
 </details>
