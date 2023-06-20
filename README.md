@@ -481,3 +481,22 @@
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" width="15"/> [32: 1396. Design Underground System.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/May%20Challenge/32%3A%201396.%20Design%20Underground%20System.py) 
 
 </details>
+
+<details close> 
+	<summary><img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="60"/><b>Jun Challenge</b>:</summary>
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="15"/> [1: 1091. Shortest Path in Binary Matrix.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jun%20Challenge/1%3A%201091.%20Shortest%20Path%20in%20Binary%20Matrix.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="15"/> [2: 2101. Detonate the Maximum Bombs.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jun%20Challenge/2%3A%202101.%20Detonate%20the%20Maximum%20Bombs.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="15"/> [3: 1376. Time Needed to Inform All Employees.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jun%20Challenge/3%3A%201376.%20Time%20Needed%20to%20Inform%20All%20Employees.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="15"/> [4: 547. Number of Provinces.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jun%20Challenge/4%3A%20547.%20Number%20of%20Provinces.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="15"/> [5: 1232. Check If It Is a Straight Line.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jun%20Challenge/5%3A%201232.%20Check%20If%20It%20Is%20a%20Straight%20Line.py) 
+
+</details>
