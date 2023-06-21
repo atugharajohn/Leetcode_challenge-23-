@@ -483,6 +483,9 @@
 </details>
 
 <details close> 
+	<summary><img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="60"/><b>Icon</b>:</summary>
+
+<details close> 
 	<summary><img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="60"/><b>Jun Challenge</b>:</summary>
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="15"/> [1: 1091. Shortest Path in Binary Matrix.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jun%20Challenge/1%3A%201091.%20Shortest%20Path%20in%20Binary%20Matrix.py) 
@@ -498,5 +501,32 @@
 
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="15"/> [5: 1232. Check If It Is a Straight Line.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jun%20Challenge/5%3A%201232.%20Check%20If%20It%20Is%20a%20Straight%20Line.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="15"/> [6: 1502. Can Make Arithmetic Progression From Sequence.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jun%20Challenge/6%3A%201502.%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="15"/> [7: 1318. Minimum Flips to Make a OR b Equal to c.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jun%20Challenge/7%3A%201318.%20Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="15"/> [8: 1351. Count Negative Numbers in a Sorted Matrix.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jun%20Challenge/8%3A%201351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="15"/> [9: 744. Find Smallest Letter Greater Than Target.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jun%20Challenge/9%3A%20744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="15"/> [10: 1802. Maximum Value at a Given Index in a Bounded Array.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jun%20Challenge/10%3A%201802.%20Maximum%20Value%20at%20a%20Given%20Index%20in%20a%20Bounded%20Array.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="15"/> [11: 1146. Snapshot Array.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jun%20Challenge/11%3A%201146.%20Snapshot%20Array.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="15"/> [12: 228. Summary Ranges.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jun%20Challenge/12%3A%20228.%20Summary%20Ranges.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="15"/> [13: 2352. Equal Row and Column Pairs.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jun%20Challenge/13%3A%202352.%20Equal%20Row%20and%20Column%20Pairs.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="15"/> [14: 530. Minimum Absolute Difference in BST.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jun%20Challenge/14%3A%20530.%20Minimum%20Absolute%20Difference%20in%20BST.py) 
 
 </details>
