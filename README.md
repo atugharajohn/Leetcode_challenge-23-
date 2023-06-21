@@ -483,9 +483,6 @@
 </details>
 
 <details close> 
-	<summary><img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="60"/><b>Icon</b>:</summary>
-
-<details close> 
 	<summary><img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="60"/><b>Jun Challenge</b>:</summary>
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="15"/> [1: 1091. Shortest Path in Binary Matrix.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jun%20Challenge/1%3A%201091.%20Shortest%20Path%20in%20Binary%20Matrix.py) 
@@ -528,5 +525,23 @@
 
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="15"/> [14: 530. Minimum Absolute Difference in BST.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jun%20Challenge/14%3A%20530.%20Minimum%20Absolute%20Difference%20in%20BST.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="15"/> [15: 1161. Maximum Level Sum of a Binary Tree.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jun%20Challenge/15%3A%201161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="15"/> [16: 1569. Number of Ways to Reorder Array to Get Same BST.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jun%20Challenge/16%3A%201569.%20Number%20of%20Ways%20to%20Reorder%20Array%20to%20Get%20Same%20BST.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="15"/> [17: 1187. Make Array Strictly Increasing.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jun%20Challenge/17%3A%201187.%20Make%20Array%20Strictly%20Increasing.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="15"/> [18: 2328. Number of Increasing Paths in a Grid.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jun%20Challenge/18%3A%202328.%20Number%20of%20Increasing%20Paths%20in%20a%20Grid.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="15"/> [19: 1732. Find the Highest Altitude.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jun%20Challenge/19%3A%201732.%20Find%20the%20Highest%20Altitude.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="15"/> [20: 2090. K Radius Subarray Averages.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jun%20Challenge/20%3A%202090.%20K%20Radius%20Subarray%20Averages.py) 
 
 </details>
