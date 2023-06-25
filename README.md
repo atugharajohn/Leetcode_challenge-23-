@@ -544,4 +544,19 @@
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="15"/> [20: 2090. K Radius Subarray Averages.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jun%20Challenge/20%3A%202090.%20K%20Radius%20Subarray%20Averages.py) 
 
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="15"/> [21: 2448. Minimum Cost to Make Array Equal.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jun%20Challenge/21%3A%202448.%20Minimum%20Cost%20to%20Make%20Array%20Equal.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="15"/> [22: 714. Best Time to Buy and Sell Stock with Transaction Fee.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jun%20Challenge/22%3A%20714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="15"/> [23: 1027. Longest Arithmetic Subsequence.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jun%20Challenge/23%3A%201027.%20Longest%20Arithmetic%20Subsequence.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="15"/> [24: 956. Tallest Billboard.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jun%20Challenge/24%3A%20956.%20Tallest%20Billboard.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="15"/> [25: 1575. Count All Possible Routes.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jun%20Challenge/25%3A%201575.%20Count%20All%20Possible%20Routes.py) 
+
 </details>
