@@ -559,4 +559,7 @@
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="15"/> [25: 1575. Count All Possible Routes.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jun%20Challenge/25%3A%201575.%20Count%20All%20Possible%20Routes.py) 
 
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="15"/> [26: 2462. Total Cost to Hire K Workers.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jun%20Challenge/26%3A%202462.%20Total%20Cost%20to%20Hire%20K%20Workers.py) 
+
 </details>
