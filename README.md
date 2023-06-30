@@ -562,4 +562,16 @@
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="15"/> [26: 2462. Total Cost to Hire K Workers.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jun%20Challenge/26%3A%202462.%20Total%20Cost%20to%20Hire%20K%20Workers.py) 
 
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="15"/> [27: 373. Find K Pairs with Smallest Sums.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jun%20Challenge/27%3A%20373.%20Find%20K%20Pairs%20with%20Smallest%20Sums.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="15"/> [28: 1514. Path with Maximum Probability.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jun%20Challenge/28%3A%201514.%20Path%20with%20Maximum%20Probability.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="15"/> [29: 864. Shortest Path to Get All Keys.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jun%20Challenge/29%3A%20864.%20Shortest%20Path%20to%20Get%20All%20Keys.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="15"/> [30: 1970. Last Day Where You Can Still Cross.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jun%20Challenge/30%3A%201970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross.py) 
+
 </details>
