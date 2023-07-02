@@ -575,3 +575,13 @@
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" width="15"/> [30: 1970. Last Day Where You Can Still Cross.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jun%20Challenge/30%3A%201970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross.py) 
 
 </details>
+
+<details close> 
+	<summary><img src = "https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width="60"/><b>Jul Challenge</b>:</summary>
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width="15"/> [1: 2305. Fair Distribution of Cookies.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jul%20Challenge/1%3A%202305.%20Fair%20Distribution%20of%20Cookies.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width="15"/> [2: 1601. Maximum Number of Achievable Transfer Requests.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jul%20Challenge/2%3A%201601.%20Maximum%20Number%20of%20Achievable%20Transfer%20Requests.py) 
+
+</details>
