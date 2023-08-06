@@ -584,4 +584,22 @@
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width="15"/> [2: 1601. Maximum Number of Achievable Transfer Requests.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jul%20Challenge/2%3A%201601.%20Maximum%20Number%20of%20Achievable%20Transfer%20Requests.py) 
 
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width="15"/> [3: 859. Buddy Strings.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jul%20Challenge/3%3A%20859.%20Buddy%20Strings.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width="15"/> [4: 137. Single Number II.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jul%20Challenge/4%3A%20137.%20Single%20Number%20II.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width="15"/> [5: 1493. Longest Subarray of 1's After Deleting One Element.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jul%20Challenge/5%3A%201493.%20Longest%20Subarray%20of%201%27s%20After%20Deleting%20One%20Element.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width="15"/> [6: 209. Minimum Size Subarray Sum.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jul%20Challenge/6%3A%20209.%20Minimum%20Size%20Subarray%20Sum.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width="15"/> [7: 2024. Maximize the Confusion of an Exam.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jul%20Challenge/7%3A%202024.%20Maximize%20the%20Confusion%20of%20an%20Exam.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width="15"/> [8: 2551. Put Marbles in Bags.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jul%20Challenge/8%3A%202551.%20Put%20Marbles%20in%20Bags.py) 
+
 </details>
