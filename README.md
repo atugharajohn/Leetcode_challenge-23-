@@ -614,4 +614,22 @@
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width="15"/> [12: 802. Find Eventual Safe States.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jul%20Challenge/12%3A%20802.%20Find%20Eventual%20Safe%20States.py) 
 
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width="15"/> [13: 207. Course Schedule.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jul%20Challenge/13%3A%20207.%20Course%20Schedule.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width="15"/> [14: 1218. Longest Arithmetic Subsequence of Given Difference.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jul%20Challenge/14%3A%201218.%20Longest%20Arithmetic%20Subsequence%20of%20Given%20Difference.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width="15"/> [15: 1751. Maximum Number of Events That Can Be Attended II.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jul%20Challenge/15%3A%201751.%20Maximum%20Number%20of%20Events%20That%20Can%20Be%20Attended%20II.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width="15"/> [16: 1125. Smallest Sufficient Team.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jul%20Challenge/16%3A%201125.%20Smallest%20Sufficient%20Team.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width="15"/> [17: 445. Add Two Numbers II.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jul%20Challenge/17%3A%20445.%20Add%20Two%20Numbers%20II.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width="15"/> [18: 146. LRU Cache.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jul%20Challenge/18%3A%20146.%20LRU%20Cache.py) 
+
 </details>
