@@ -602,4 +602,16 @@
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width="15"/> [8: 2551. Put Marbles in Bags.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jul%20Challenge/8%3A%202551.%20Put%20Marbles%20in%20Bags.py) 
 
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width="15"/> [9: 2272. Substring With Largest Variance.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jul%20Challenge/9%3A%202272.%20Substring%20With%20Largest%20Variance.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width="15"/> [10: 111. Minimum Depth of Binary Tree.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jul%20Challenge/10%3A%20111.%20Minimum%20Depth%20of%20Binary%20Tree.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width="15"/> [11: 863. All Nodes Distance K in Binary Tree.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jul%20Challenge/11%3A%20863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width="15"/> [12: 802. Find Eventual Safe States.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jul%20Challenge/12%3A%20802.%20Find%20Eventual%20Safe%20States.py) 
+
 </details>
