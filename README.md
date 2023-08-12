@@ -665,4 +665,10 @@
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width="15"/> [29: 808. Soup Servings.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jul%20Challenge/29%3A%20808.%20Soup%20Servings.py) 
 
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width="15"/> [30: 664. Strange Printer.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jul%20Challenge/30%3A%20664.%20Strange%20Printer.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width="15"/> [31: 712. Minimum ASCII Delete Sum for Two Strings.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jul%20Challenge/31%3A%20712.%20Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings.py) 
+
 </details>
