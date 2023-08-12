@@ -672,3 +672,43 @@
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width="15"/> [31: 712. Minimum ASCII Delete Sum for Two Strings.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jul%20Challenge/31%3A%20712.%20Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings.py) 
 
 </details>
+
+<details close> 
+	<summary><img src = "https://leetcode.com/static/images/badges/2023/gif/2023-08.gif" width="60"/><b>Aug Challenge</b>:</summary>
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-08.gif" width="15"/> [1: 77. Combinations.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Aug%20Challenge/1%3A%2077.%20Combinations.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-08.gif" width="15"/> [2: 46. Permutations.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Aug%20Challenge/2%3A%2046.%20Permutations.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-08.gif" width="15"/> [3: 17. Letter Combinations of a Phone Number.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Aug%20Challenge/3%3A%2017.%20Letter%20Combinations%20of%20a%20Phone%20Number.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-08.gif" width="15"/> [4: 139. Word Break.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Aug%20Challenge/4%3A%20139.%20Word%20Break.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-08.gif" width="15"/> [5: 95. Unique Binary Search Trees II.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Aug%20Challenge/5%3A%2095.%20Unique%20Binary%20Search%20Trees%20II.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-08.gif" width="15"/> [6: 920. Number of Music Playlists.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Aug%20Challenge/6%3A%20920.%20Number%20of%20Music%20Playlists.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-08.gif" width="15"/> [7: 74. Search a 2D Matrix.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Aug%20Challenge/7%3A%2074.%20Search%20a%202D%20Matrix.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-08.gif" width="15"/> [8: 33. Search in Rotated Sorted Array.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Aug%20Challenge/8%3A%2033.%20Search%20in%20Rotated%20Sorted%20Array.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-08.gif" width="15"/> [9: 2616. Minimize the Maximum Difference of Pairs.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Aug%20Challenge/9%3A%202616.%20Minimize%20the%20Maximum%20Difference%20of%20Pairs.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-08.gif" width="15"/> [10: 81. Search in Rotated Sorted Array II.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Aug%20Challenge/10%3A%2081.%20Search%20in%20Rotated%20Sorted%20Array%20II.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-08.gif" width="15"/> [11: 518. Coin Change II.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Aug%20Challenge/11%3A%20518.%20Coin%20Change%20II.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-08.gif" width="15"/> [12: 63. Unique Paths II.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Aug%20Challenge/12%3A%2063.%20Unique%20Paths%20II.py) 
+
+</details>
