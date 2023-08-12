@@ -638,4 +638,31 @@
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width="15"/> [20: 735. Asteroid Collision.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jul%20Challenge/20%3A%20735.%20Asteroid%20Collision.py) 
 
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width="15"/> [21: 673. Number of Longest Increasing Subsequence.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jul%20Challenge/21%3A%20673.%20Number%20of%20Longest%20Increasing%20Subsequence.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width="15"/> [22: 688. Knight Probability in Chessboard.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jul%20Challenge/22%3A%20688.%20Knight%20Probability%20in%20Chessboard.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width="15"/> [23: 894. All Possible Full Binary Trees.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jul%20Challenge/23%3A%20894.%20All%20Possible%20Full%20Binary%20Trees.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width="15"/> [24: 50. Pow(x, n).py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jul%20Challenge/24%3A%2050.%20Pow%28x%2C%20n%29.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width="15"/> [25: 852. Peak Index in a Mountain Array.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jul%20Challenge/25%3A%20852.%20Peak%20Index%20in%20a%20Mountain%20Array.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width="15"/> [26: 1870. Minimum Speed to Arrive on Time.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jul%20Challenge/26%3A%201870.%20Minimum%20Speed%20to%20Arrive%20on%20Time.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width="15"/> [27: 2141. Maximum Running Time of N Computers.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jul%20Challenge/27%3A%202141.%20Maximum%20Running%20Time%20of%20N%20Computers.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width="15"/> [28: 486. Predict the Winner.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jul%20Challenge/28%3A%20486.%20Predict%20the%20Winner.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width="15"/> [29: 808. Soup Servings.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jul%20Challenge/29%3A%20808.%20Soup%20Servings.py) 
+
 </details>
