@@ -632,4 +632,10 @@
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width="15"/> [18: 146. LRU Cache.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jul%20Challenge/18%3A%20146.%20LRU%20Cache.py) 
 
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width="15"/> [19: 435. Non-overlapping Intervals.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jul%20Challenge/19%3A%20435.%20Non-overlapping%20Intervals.py) 
+
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width="15"/> [20: 735. Asteroid Collision.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Jul%20Challenge/20%3A%20735.%20Asteroid%20Collision.py) 
+
 </details>
