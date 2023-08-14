@@ -714,4 +714,7 @@
 
 <img src = "https://leetcode.com/static/images/badges/2023/gif/2023-08.gif" width="15"/> [13: 2369. Check if There is a Valid Partition For The Array.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Aug%20Challenge/13%3A%202369.%20Check%20if%20There%20is%20a%20Valid%20Partition%20For%20The%20Array.py) 
 
+
+<img src = "https://leetcode.com/static/images/badges/2023/gif/2023-08.gif" width="15"/> [14: 215. Kth Largest Element in an Array.py](https://github.com/ThisIsSakshi/Leetcode-Solutions/blob/main/Aug%20Challenge/14%3A%20215.%20Kth%20Largest%20Element%20in%20an%20Array.py) 
+
 </details>
