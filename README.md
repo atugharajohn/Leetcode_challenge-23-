@@ -6,6 +6,10 @@
 </a>
 <h1>LeetCode Challenges</h1>
 Welcome to my LeetCode solutions repository! 🚀
+
+## Introduction
+I love solving coding challenges, and LeetCode has been a fantastic platform for improving my skills. Here, you'll find my solutions to various LeetCode problems.
+
 <details close> 
 	<summary><img src = "https://leetcode.com/static/images/badges/2023/gif/2023-01.gif" width="60"/><b>Jan Challenge</b>:</summary>
 
