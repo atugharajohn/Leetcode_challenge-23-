@@ -4,7 +4,7 @@
 <a href="https://github.com/ThisIsSakshi/Leetcode-Solutions-2023#gh-dark-mode-only">
   <img align="left"  src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" alt="Header" width="50" />
 </a>
-<h1>LeetCode Challenges</h1>
+# LeetCode Challenges
 Welcome to my LeetCode solutions repository! 🚀
 
 ## Introduction
@@ -13,6 +13,7 @@ I love solving coding challenges, and LeetCode has been a fantastic platform for
 ## Repository Structure
 - `leetcode-solutions/`: Contains my solutions organized by difficulty level.
 - `challenges/`: Additional coding challenges from various sources.
+- 
 <details close> 
 	<summary><img src = "https://leetcode.com/static/images/badges/2023/gif/2023-01.gif" width="60"/><b>Jan Challenge</b>:</summary>
 
